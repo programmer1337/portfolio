@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.bff00fbb.css",
-    "main.js": "/portfolio/static/js/main.80d05fda.js",
+    "main.css": "/portfolio/static/css/main.b01ae28d.css",
+    "main.js": "/portfolio/static/js/main.71ccd1e8.js",
     "static/media/nft-market-pc.png": "/portfolio/static/media/nft-market-pc.eb2963af200cee92fb9d.png",
-    "static/media/java-pc.png": "/portfolio/static/media/java-pc.cee70f34703622af5fe8.png",
-    "static/media/react-pc.png": "/portfolio/static/media/react-pc.79d24894a483ae3f2f39.png",
-    "static/media/sql-pc.png": "/portfolio/static/media/sql-pc.7585198f93b4ac2829f7.png",
-    "static/media/git-pc.png": "/portfolio/static/media/git-pc.71fd06e868b43c8255b7.png",
-    "static/media/js-pc.png": "/portfolio/static/media/js-pc.84bd2d3f3b64e33b8616.png",
-    "static/media/node-pc.png": "/portfolio/static/media/node-pc.e4716b6d9c46f11a3f63.png",
+    "static/media/volumetric-space-pc.png": "/portfolio/static/media/volumetric-space-pc.6d1f7e9b96488d594ca7.png",
     "static/media/t1.png": "/portfolio/static/media/t1.ff0e573be9dbe301c218.png",
+    "static/media/arrow-text.svg": "/portfolio/static/media/arrow-text.59376d9e08450b7d5fcaa3c305877452.svg",
+    "static/media/arrow.svg": "/portfolio/static/media/arrow.164bc7a711402d8240d4fd2448e7cdbe.svg",
+    "static/media/github-logo.svg": "/portfolio/static/media/github-logo.ca44f750c47dfcbdce79672ac32c71fe.svg",
+    "static/media/telegram-logo.svg": "/portfolio/static/media/telegram-logo.8644e435d7836d2b37009ab20516f0b1.svg",
     "index.html": "/portfolio/index.html",
-    "main.bff00fbb.css.map": "/portfolio/static/css/main.bff00fbb.css.map",
-    "main.80d05fda.js.map": "/portfolio/static/js/main.80d05fda.js.map"
+    "main.b01ae28d.css.map": "/portfolio/static/css/main.b01ae28d.css.map",
+    "main.71ccd1e8.js.map": "/portfolio/static/js/main.71ccd1e8.js.map"
   },
   "entrypoints": [
-    "static/css/main.bff00fbb.css",
-    "static/js/main.80d05fda.js"
+    "static/css/main.b01ae28d.css",
+    "static/js/main.71ccd1e8.js"
   ]
 }
